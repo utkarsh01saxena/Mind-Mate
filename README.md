@@ -34,16 +34,20 @@ Lucide React for the icons used throughout the app.
 
 Genkit as the framework to create and manage the AI flows.
 Google AI (Gemini) as the underlying model powering the chatbot and suggestion features.
+
 -**Forms:**
 
 React Hook Form for efficient and scalable form handling.
 Zod for powerful schema validation.
+
 -**Data Visualization:**
 
 Recharts to display the mood history in a chart.
+
 -**Local Data Storage:**
 
 Browser LocalStorage is used via custom React hooks (useMoodData, useUserData) to persist user data without needing a database.
+
 -**Deployment**:
 
 Vercel
